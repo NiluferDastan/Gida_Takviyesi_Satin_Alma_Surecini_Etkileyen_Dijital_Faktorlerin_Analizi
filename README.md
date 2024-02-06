@@ -5,10 +5,10 @@
 ### Frekans Tablosu 
 - 1.Cinsiyet    
             - Valid satırında cevaplayan kişilerimiz var. 
-            - [x] Missing (cevaplanmamış olanlar) = 4
-            - [x] Ölçek metoduyla test ettiğimiz için cinsiyet(1=Kadın,2=Erkek)
-            - [x] Stnd. sapma = 0.472
-            - [x] Carpıklık = -0.716(Negatif Yönlü Sağa Çarpık Dağılımlıdır)
+            - Missing (cevaplanmamış olanlar) = 4
+            - Ölçek metoduyla test ettiğimiz için cinsiyet(1=Kadın,2=Erkek)
+            - Stnd. sapma = 0.472
+            - Carpıklık = -0.716(Negatif Yönlü Sağa Çarpık Dağılımlıdır)
   Bu işlemi bütün Demografik Değişkenler(Cinsiyet, Yaş, Medeni Durum, Eğitim) için yaparız.
 1. Descriptive statistics -> Frequencies kısmından katılımcıların frekanslarını analiz ettik.
             - 18-25               %7.8
