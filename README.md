@@ -3,9 +3,8 @@
 - [x] Faktör, Güvenilirlik Analizi, Cronbach-Alpha, Regresyon ve Korelasyon analizleri yapılmıştır.
 ## Aşamalar:
 ### Frekans Tablosu 
-- [1.1] Kayıp Veri Kontrolü
-Cinsiyet    
-            - [x] Valid satırında cevaplayan kişilerimiz var. 
+- 1.Cinsiyet    
+            - Valid satırında cevaplayan kişilerimiz var. 
             - [x] Missing (cevaplanmamış olanlar) = 4
             - [x] Ölçek metoduyla test ettiğimiz için cinsiyet(1=Kadın,2=Erkek)
             - [x] Stnd. sapma = 0.472
