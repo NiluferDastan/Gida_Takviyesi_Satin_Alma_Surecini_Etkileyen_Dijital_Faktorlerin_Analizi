@@ -1,6 +1,6 @@
-Bu proje İstanbul Ticaret Üniversitesi Yüksek Lisans programından danışanımın tezinde kullanılmıştır. [Dergip](https://dergipark.org.tr/tr/pub/tje/issue/77800/1232934)
-Danışanın gönderdiği excel formatındaki anket1.xlsx formatındaki kategorik ve nümerik veriler SPSS analizine uygun şekilde IBM SPSS'e aktarılmıştır.
-Faktör Analizi, Regresyon ve Korelasyon analizleri yapılmıştır.
+- [x] Bu proje İstanbul Ticaret Üniversitesi Yüksek Lisans programından danışanımın tezinde kullanılmıştır. [Dergip](https://dergipark.org.tr/tr/pub/tje/issue/77800/1232934)
+- [x] Danışanın gönderdiği excel formatındaki anket1.xlsx formatındaki kategorik ve nümerik veriler SPSS analizine uygun şekilde IBM SPSS'e aktarılmıştır.
+- [x] Faktör Analizi, Regresyon ve Korelasyon analizleri yapılmıştır.
 ## Aşamalar:
 ### Frekans Tablosu 
 - [1.1] Kayıp Veri Kontrolü
