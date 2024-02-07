@@ -1,6 +1,6 @@
 - [x] Bu proje İstanbul Ticaret Üniversitesi Yüksek Lisans programından danışanımın tezinde kullanılmıştır.
-- [ ] Project Deadline:02/01/2023
-- [ ] [Dergip(https://dergipark.org.tr/tr/pub/tje/issue/77800/1232934)](https://dergipark.org.tr/tr/pub/tje/issue/77800/1232934)
+- [X] Project Deadline:02/01/2023
+- [X] [Dergipark](https://dergipark.org.tr/tr/pub/tje/issue/77800/1232934)](https://dergipark.org.tr/tr/pub/tje/issue/77800/1232934)
 - [x] Danışanın gönderdiği excel formatındaki anket1.xlsx formatındaki kategorik ve nümerik veriler SPSS analizine uygun şekilde IBM SPSS'e aktarılmıştır.
 - [x] Faktör, Güvenilirlik Analizi, Cronbach-Alpha, Anova ve Korelasyon analizleri yapılmıştır.
 ## Aşamalar:
