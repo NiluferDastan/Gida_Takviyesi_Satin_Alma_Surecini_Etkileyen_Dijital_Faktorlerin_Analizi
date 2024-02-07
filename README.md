@@ -23,7 +23,7 @@
 - [x] Örnek büyüklüğünün faktör analizi için uygun olup olmadığının anlaşılması için KMO testi yapılmıştır ve KMO=0.889 bulunmuştur. 0.60<0.89 olduğu için örnek hacmimiz olan 300 katılımcı yeterli olmuştur. Faktör analizinde varimax yöntemi seçilerek değişkenin yapısının aynı kalması sağlanmıştır.
 ## T-Test
 - [x] T testlerinde Anova testlerinde olduğu gibi (5'li Likert) ölçek ortalamaları ile çalışmaya devam ederiz ve karşılaştırmalar yaparız.
-- [ ] Demografik değişkenlerin anket sorularının cevaplarını nasıl etkilediğine **Independent T-Test** ile bakarız.
+- [X] Demografik değişkenlerin anket sorularının cevaplarını nasıl etkilediğine **Independent T-Test** ile bakarız.
 ## Normallik Testi(Kolmogorov-Smirnov)&(Shapiro-Wilk)
 - H<sub>0</sub>:Gıda takviyesi satın alma ve son 1 ayda satın alma ölçekleri normal dağılımlıdır
 - H<sub>1</sub>:Gıda takviyesi satın alma ve son 1 ayda satın alma ölçekleri normal dağılımlıdır
