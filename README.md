@@ -29,5 +29,8 @@
 - H<sub>1</sub>:Gıda takviyesi satın alma ve son 1 ayda satın alma ölçekleri normal dağılımlıdır
 p=0.01 <= p=0.05 olduğu için veriler normal dağılmamıştır
 ## Güvenilirlik Analizi - Cronbach Alpha (Reliability Analysis)
+Item-Total Statistics" tablosu
+Ölçeğimiz 0.230'dur. Cronbach alpha değeri >0.70 olduğunda güvenilir olduğunu söyleyebildiğimiz için 0.230<0.70 olduğundan katılımcıların soruları yorum ve memnuniyet sorularımızın güvenilirliğini sağlamaz.
+Gıda takviyesindeki katılım(Likert Ölçek)soruları içerisinde hepsinin değerleri birbirine yakındır. Tüm katılım sorularının Cronbach's Alpha değeri 0.200 ila 0.250 arasındadı.Lakin "Gıda takviyesi satın alma sürecinde hangi tavsiye kanallarına daha çok güveniyorsunuz?" sorusunu çıkartırsak değerimiz 0.230'dan 0.247'ye yükselecektir.Bu bizi biraz daha iyi sonuca götürebilir ama güvenilir olduğunu söyleyemeyiz.
 
 
